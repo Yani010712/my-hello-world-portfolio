@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "my first portfolio",
   "main": "index.js",
+  "repository": "https://github.com/Yani010712/my-hello-world-portfolio",
   "author": "Yani Rodriguez",
   "license": "MIT",
   "dependencies": {
