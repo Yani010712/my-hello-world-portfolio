@@ -5,6 +5,7 @@
   "main": "index.js",
   "repository": "https://github.com/Yani010712/my-hello-world-portfolio",
   "author": "Yani Rodriguez",
+  "private": false,
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1"
