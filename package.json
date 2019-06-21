@@ -1,0 +1,17 @@
+{
+  "name": "my-hello-world-portfolio",
+  "version": "1.0.0",
+  "description": "my first portfolio",
+  "main": "index.js",
+  "author": "Yani Rodriguez",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+   "scripts": {
+   "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=11.13.0"
+  }
+}
