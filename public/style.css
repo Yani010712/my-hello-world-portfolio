@@ -225,6 +225,9 @@ a {
 
 .info-about-container {
     padding-top: 75px;
+    display: block;
+
+    /* height: 900px; */
 }
 
 .contact-form-container {
@@ -306,6 +309,7 @@ a {
 }
 
 
+
 /* .profileP{
 	display:flex;
 	align-content: center;
@@ -327,26 +331,18 @@ img.profile-photo {
     justify-content: space-around;
 }
 
-.coffee {
-    width: 200px;
-    height: 200px;
-    border: 1px solid #ccc;
-    padding: 5px;
+
+
+/* test*********** */
+#progress-bar-container{
+  width: 1024px;
+  padding: 50px;
+  margin-left: 50px;
+
+  text-align: center;
+
 }
 
-.origami {
-    width: 190px;
-    height: 200px;
-    border: 1px solid #ccc;
-    padding: 5px;
-}
-
-.sudoku {
-    width: 200px;
-    height: 200px;
-    border: 1px solid #ccc;
-    padding: 5px;
-}
 
 
 /* =================================
